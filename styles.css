@@ -18,9 +18,9 @@ body {
 .contact-info {
     font-size: 16px;
     margin-right: 10px;
-    position: absolute;
-    bottom: 0;
-    right: 10px;
+    position: relative;
+    top: 50px;
+    margin-bottom: -20px;
     background-color: #ccc;
     border-radius: 5px;
     padding: 5px;
